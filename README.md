@@ -34,12 +34,6 @@ Paid annual subscribers can sign in at [https://www.lennysdata.com](https://www.
 
 If you are not yet a paid subscriber, upgrade here: [https://www.lennysnewsletter.com/subscribe](https://www.lennysnewsletter.com/subscribe)
 
-## MCP access
-
-- Free subscribers: starter MCP access
-- Paid annual subscribers: full-archive MCP access
-- Setup guide: [https://www.lennysdata.com/docs/mcp](https://www.lennysdata.com/docs/mcp)
-
 ## License
 
 See `LICENSE.md` for usage terms.
