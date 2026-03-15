@@ -1,6 +1,6 @@
 ---
 title: "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (CEO)"
-publish_date: "2025-11-13"
+date: "2025-11-13"
 type: "podcast"
 guest: "Grant Lee"
 channel: "Lenny's Podcast"

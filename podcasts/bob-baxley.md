@@ -1,6 +1,6 @@
 ---
 title: "35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley"
-publish_date: "2025-06-12"
+date: "2025-06-12"
 type: "podcast"
 guest: "Bob Baxley"
 channel: "Lenny's Podcast"

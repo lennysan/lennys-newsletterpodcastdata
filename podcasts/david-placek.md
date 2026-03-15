@@ -1,6 +1,6 @@
 ---
 title: "Naming expert shares the process behind creating billion-dollar brand names like Azure, Vercel, Windsurf, Sonos, Blackberry, and Impossible Burger | David Placek (Lexicon Branding)"
-publish_date: "2025-06-29"
+date: "2025-06-29"
 type: "podcast"
 guest: "David Placek"
 channel: "Lenny's Podcast"

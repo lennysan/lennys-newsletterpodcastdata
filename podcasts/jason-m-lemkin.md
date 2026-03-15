@@ -1,6 +1,6 @@
 ---
 title: "We replaced our sales team with 20 AI agents—here’s what happened | Jason Lemkin (SaaStr)"
-publish_date: "2026-01-01"
+date: "2026-01-01"
 type: "podcast"
 guest: "Jason M Lemkin"
 channel: "Lenny's Podcast"

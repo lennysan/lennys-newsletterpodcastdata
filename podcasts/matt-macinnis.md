@@ -1,6 +1,6 @@
 ---
 title: "10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling)"
-publish_date: "2025-12-28"
+date: "2025-12-28"
 type: "podcast"
 guest: "Matt MacInnis"
 channel: "Lenny's Podcast"

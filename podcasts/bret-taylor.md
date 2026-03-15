@@ -1,6 +1,6 @@
 ---
 title: "He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor on the future of careers, coding, agents, and more"
-publish_date: "2025-07-31"
+date: "2025-07-31"
 type: "podcast"
 guest: "Bret Taylor"
 channel: "Lenny's Podcast"

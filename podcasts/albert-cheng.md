@@ -1,6 +1,6 @@
 ---
 title: "How to find hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)"
-publish_date: "2025-10-05"
+date: "2025-10-05"
 type: "podcast"
 guest: "Albert Cheng"
 channel: "Lenny's Podcast"

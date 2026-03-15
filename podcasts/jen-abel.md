@@ -1,6 +1,6 @@
 ---
 title: "\"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR | Jen Abel"
-publish_date: "2025-11-09"
+date: "2025-11-09"
 type: "podcast"
 guest: "Jen Abel"
 channel: "Lenny's Podcast"

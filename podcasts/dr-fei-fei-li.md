@@ -1,6 +1,6 @@
 ---
 title: "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li"
-publish_date: "2025-11-16"
+date: "2025-11-16"
 type: "podcast"
 guest: "Dr. Fei Fei Li"
 channel: "Lenny's Podcast"

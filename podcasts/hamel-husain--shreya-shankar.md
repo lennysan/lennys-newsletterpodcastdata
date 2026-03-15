@@ -1,6 +1,6 @@
 ---
 title: "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course)"
-publish_date: "2025-09-25"
+date: "2025-09-25"
 type: "podcast"
 guest: "Hamel Husain & Shreya Shankar"
 channel: "Lenny's Podcast"

@@ -1,6 +1,6 @@
 ---
 title: "Slack founder: Mental models for building products people love ft. Stewart Butterfield"
-publish_date: "2025-11-20"
+date: "2025-11-20"
 type: "podcast"
 guest: "Stewart Butterfield"
 channel: "Lenny's Podcast"

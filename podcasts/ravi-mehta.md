@@ -1,6 +1,6 @@
 ---
 title: "The secret to better AI prototypes: Why Tinder’s CPO starts with JSON, not design | Ravi Mehta (product advisor, previously EIR at Reforge)"
-publish_date: "2025-09-29"
+date: "2025-09-29"
 type: "podcast"
 guest: "Ravi Mehta"
 channel: "Lenny's Podcast"

@@ -1,6 +1,6 @@
 ---
 title: "How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)"
-publish_date: "2025-09-08"
+date: "2025-09-08"
 type: "podcast"
 guest: "Scott Wu"
 channel: "Lenny's Podcast"

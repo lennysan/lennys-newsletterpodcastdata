@@ -1,6 +1,6 @@
 ---
 title: "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam"
-publish_date: "2025-07-27"
+date: "2025-07-27"
 type: "podcast"
 guest: "Madhavan Ramanujam"
 channel: "Lenny's Podcast"

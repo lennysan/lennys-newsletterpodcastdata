@@ -1,6 +1,6 @@
 ---
 title: "How to build a team that can “take a punch”: A playbook for building resilient, high-performing teams | Hilary Gridley (Head of Core Product, Whoop)"
-publish_date: "2025-06-15"
+date: "2025-06-15"
 type: "podcast"
 guest: "Hilary Gridley"
 channel: "Lenny's Podcast"

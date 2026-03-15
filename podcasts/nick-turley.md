@@ -1,6 +1,6 @@
 ---
 title: "Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI)"
-publish_date: "2025-08-09"
+date: "2025-08-09"
 type: "podcast"
 guest: "Nick Turley"
 channel: "Lenny's Podcast"

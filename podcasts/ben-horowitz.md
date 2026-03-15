@@ -1,6 +1,6 @@
 ---
 title: "$46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder)"
-publish_date: "2025-09-11"
+date: "2025-09-11"
 type: "podcast"
 guest: "Ben Horowitz"
 channel: "Lenny's Podcast"

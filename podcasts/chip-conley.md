@@ -1,6 +1,6 @@
 ---
 title: "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)"
-publish_date: "2025-08-03"
+date: "2025-08-03"
 type: "podcast"
 guest: "Chip Conley"
 channel: "Lenny's Podcast"

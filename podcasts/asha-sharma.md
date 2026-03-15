@@ -1,6 +1,6 @@
 ---
 title: "How 80,000 companies build with AI: products as organisms, the death of org charts, and why agents will outnumber employees by 2026 | Asha Sharma (CVP of AI Platform at Microsoft)"
-publish_date: "2025-08-28"
+date: "2025-08-28"
 type: "podcast"
 guest: "Asha Sharma"
 channel: "Lenny's Podcast"

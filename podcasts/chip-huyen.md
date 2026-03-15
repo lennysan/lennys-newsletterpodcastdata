@@ -1,6 +1,6 @@
 ---
 title: "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)"
-publish_date: "2025-10-23"
+date: "2025-10-23"
 type: "podcast"
 guest: "Chip Huyen"
 channel: "Lenny's Podcast"

@@ -1,6 +1,6 @@
 ---
 title: "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)"
-publish_date: "2025-09-14"
+date: "2025-09-14"
 type: "podcast"
 guest: "Ethan Smith"
 channel: "Lenny's Podcast"

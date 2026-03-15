@@ -1,6 +1,6 @@
 ---
 title: "Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram)"
-publish_date: "2025-06-05"
+date: "2025-06-05"
 type: "podcast"
 guest: "Mike Krieger"
 channel: "Lenny's Podcast"

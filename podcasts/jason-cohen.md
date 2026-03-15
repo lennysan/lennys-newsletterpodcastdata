@@ -1,6 +1,6 @@
 ---
 title: "5 questions to ask when your product stops growing | Jason Cohen (2x unicorn founder)"
-publish_date: "2026-01-25"
+date: "2026-01-25"
 type: "podcast"
 guest: "Jason Cohen"
 channel: "Lenny's Podcast"

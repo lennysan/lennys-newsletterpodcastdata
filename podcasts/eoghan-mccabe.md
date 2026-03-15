@@ -1,6 +1,6 @@
 ---
 title: "How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)"
-publish_date: "2025-08-21"
+date: "2025-08-21"
 type: "podcast"
 guest: "Eoghan McCabe"
 channel: "Lenny's Podcast"

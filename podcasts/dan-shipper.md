@@ -1,6 +1,6 @@
 ---
 title: "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every)"
-publish_date: "2025-07-17"
+date: "2025-07-17"
 type: "podcast"
 guest: "Dan Shipper"
 channel: "Lenny's Podcast"

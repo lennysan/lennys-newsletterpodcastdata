@@ -1,6 +1,6 @@
 ---
 title: "The high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale"
-publish_date: "2026-01-04"
+date: "2026-01-04"
 type: "podcast"
 guest: "Molly Graham"
 channel: "Lenny's Podcast"

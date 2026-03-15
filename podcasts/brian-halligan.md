@@ -1,6 +1,6 @@
 ---
 title: "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)"
-publish_date: "2026-02-15"
+date: "2026-02-15"
 type: "podcast"
 guest: "Brian Halligan"
 channel: "Lenny's Podcast"

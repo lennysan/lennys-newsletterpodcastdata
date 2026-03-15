@@ -1,6 +1,6 @@
 ---
 title: "Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman"
-publish_date: "2025-05-25"
+date: "2025-05-25"
 type: "podcast"
 guest: "Krithika Shankarraman"
 channel: "Lenny's Podcast"

@@ -1,6 +1,6 @@
 ---
 title: "How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin"
-publish_date: "2026-01-15"
+date: "2026-01-15"
 type: "podcast"
 guest: "Sam Lessin"
 channel: "Lenny's Podcast"

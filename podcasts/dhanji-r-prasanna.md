@@ -1,6 +1,6 @@
 ---
 title: "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna"
-publish_date: "2025-10-26"
+date: "2025-10-26"
 type: "podcast"
 guest: "Dhanji R. Prasanna"
 channel: "Lenny's Podcast"

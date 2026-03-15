@@ -1,6 +1,6 @@
 ---
 title: "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt)"
-publish_date: "2025-06-19"
+date: "2025-06-19"
 type: "podcast"
 guest: "Sander Schulhoff"
 channel: "Lenny's Podcast"

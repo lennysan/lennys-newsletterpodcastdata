@@ -1,6 +1,6 @@
 ---
 title: "The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)"
-publish_date: "2026-02-08"
+date: "2026-02-08"
 type: "podcast"
 guest: "Lazar Jovanovic"
 channel: "Lenny's Podcast"

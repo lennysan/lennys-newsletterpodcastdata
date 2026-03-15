@@ -1,6 +1,6 @@
 ---
 title: "From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng"
-publish_date: "2025-06-22"
+date: "2025-06-22"
 type: "podcast"
 guest: "Peter Deng"
 channel: "Lenny's Podcast"

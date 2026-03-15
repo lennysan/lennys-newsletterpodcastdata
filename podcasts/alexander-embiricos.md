@@ -1,6 +1,6 @@
 ---
 title: "The power user’s guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more | Alexander Embiricos"
-publish_date: "2026-01-12"
+date: "2026-01-12"
 type: "podcast"
 guest: "Alexander Embiricos"
 channel: "Lenny's Podcast"

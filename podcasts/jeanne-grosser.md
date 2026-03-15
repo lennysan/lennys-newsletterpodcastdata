@@ -1,6 +1,6 @@
 ---
 title: "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)"
-publish_date: "2025-11-30"
+date: "2025-11-30"
 type: "podcast"
 guest: "Jeanne Grosser"
 channel: "Lenny's Podcast"

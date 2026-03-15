@@ -1,6 +1,6 @@
 ---
 title: "The woman behind Canva shares how she built a $42B company from nothing | Melanie Perkins"
-publish_date: "2025-11-02"
+date: "2025-11-02"
 type: "podcast"
 guest: "Melanie Perkins"
 channel: "Lenny's Podcast"

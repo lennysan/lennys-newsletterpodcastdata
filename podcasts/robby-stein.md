@@ -1,6 +1,6 @@
 ---
 title: "Inside Google's AI turnaround: The rise of AI Mode, strategy behind AI Overviews, and their vision for AI-powered search | Robby Stein (VP of Product, Google Search)"
-publish_date: "2025-10-10"
+date: "2025-10-10"
 type: "podcast"
 guest: "Robby Stein"
 channel: "Lenny's Podcast"

@@ -1,6 +1,6 @@
 ---
 title: "How we restructured Airtable’s entire org for AI | Howie Liu (co-founder and CEO)"
-publish_date: "2025-08-31"
+date: "2025-08-31"
 type: "podcast"
 guest: "Howie Liu"
 channel: "Lenny's Podcast"

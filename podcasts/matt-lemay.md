@@ -1,6 +1,6 @@
 ---
 title: "The one question that saves product careers | Matt LeMay"
-publish_date: "2025-08-14"
+date: "2025-08-14"
 type: "podcast"
 guest: "Matt LeMay"
 channel: "Lenny's Podcast"

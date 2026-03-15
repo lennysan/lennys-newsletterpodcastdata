@@ -1,6 +1,6 @@
 ---
 title: "How to measure AI developer productivity in 2025 | Nicole Forsgren"
-publish_date: "2025-10-19"
+date: "2025-10-19"
 type: "podcast"
 guest: "Nicole Forsgren"
 channel: "Lenny's Podcast"

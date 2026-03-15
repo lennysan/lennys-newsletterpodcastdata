@@ -1,6 +1,6 @@
 ---
 title: "Marc Andreessen: The real AI boom hasn’t even started yet"
-publish_date: "2026-01-29"
+date: "2026-01-29"
 type: "podcast"
 guest: "Marc Andreessen"
 channel: "Lenny's Podcast"

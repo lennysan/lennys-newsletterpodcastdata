@@ -1,6 +1,6 @@
 ---
 title: "A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett"
-publish_date: "2025-11-23"
+date: "2025-11-23"
 type: "podcast"
 guest: "Rachel Lockett"
 channel: "Lenny's Podcast"

@@ -1,6 +1,6 @@
 ---
 title: "Inside the expert network training every frontier AI model | Garrett Lord (Handshake CEO)"
-publish_date: "2025-08-24"
+date: "2025-08-24"
 type: "podcast"
 guest: "Garrett Lord"
 channel: "Lenny's Podcast"

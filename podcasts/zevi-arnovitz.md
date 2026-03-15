@@ -1,6 +1,6 @@
 ---
 title: "The non-technical PM’s guide to building with Cursor | Zevi Arnovitz (Meta)"
-publish_date: "2026-01-18"
+date: "2026-01-18"
 type: "podcast"
 guest: "Zevi Arnovitz"
 channel: "Lenny's Podcast"

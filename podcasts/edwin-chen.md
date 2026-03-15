@@ -1,6 +1,6 @@
 ---
 title: "The 100-person AI lab that became Anthropic and Google's secret weapon | Edwin Chen (Surge AI)"
-publish_date: "2025-12-07"
+date: "2025-12-07"
 type: "podcast"
 guest: "Edwin Chen"
 channel: "Lenny's Podcast"

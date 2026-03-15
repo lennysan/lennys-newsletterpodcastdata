@@ -1,6 +1,6 @@
 ---
 title: "A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy"
-publish_date: "2026-02-01"
+date: "2026-02-01"
 type: "podcast"
 guest: "Dr. Becky Kennedy"
 channel: "Lenny's Podcast"

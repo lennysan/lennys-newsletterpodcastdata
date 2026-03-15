@@ -1,6 +1,6 @@
 ---
 title: "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor)"
-publish_date: "2025-09-18"
+date: "2025-09-18"
 type: "podcast"
 guest: "Brendan Foody"
 channel: "Lenny's Podcast"

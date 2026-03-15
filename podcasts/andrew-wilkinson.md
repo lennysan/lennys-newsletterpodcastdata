@@ -1,6 +1,6 @@
 ---
 title: "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson (co‑founder of Tiny)"
-publish_date: "2025-07-03"
+date: "2025-07-03"
 type: "podcast"
 guest: "Andrew Wilkinson"
 channel: "Lenny's Podcast"

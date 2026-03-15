@@ -1,6 +1,6 @@
 ---
 title: "First interview with Scale AI’s CEO: $14B Meta deal, what’s working in enterprise AI, and what frontier labs are building next | Jason Droege"
-publish_date: "2025-10-09"
+date: "2025-10-09"
 type: "podcast"
 guest: "Jason Droege"
 channel: "Lenny's Podcast"
