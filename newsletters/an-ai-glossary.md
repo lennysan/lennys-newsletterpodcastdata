@@ -3,7 +3,7 @@ title: "An AI glossary"
 subtitle: "The most common AI terms explained, simply"
 date: "2025-06-24"
 type: "newsletter"
-word_count: 3255
+word_count: 3280
 ---
 
 You’re probably hearing a lot of AI jargon, and you probably *sort* *of* know what some of it means . . . but not *really*. Below is an “explain it to me like I’m 5” definition of the 20+ most common AI terms, drawn from my own understanding, a bunch of research, and feedback from my most AI-pilled friends.
@@ -12,7 +12,7 @@ If you already know all this, no sweat, this post isn’t for you. For everyone 
 
 *P.S. If you prefer, you can listen to this post in convenient podcast form: [Spotify](https://open.spotify.com/show/0IIunA06qMtrcQLfypTooj) / [Apple](https://podcasts.apple.com/us/podcast/lennys-reads/id1810314693) / [YouTube](https://www.youtube.com/@lennysreads).*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/3ded72ed-e8da-43dd-ba53-50eb67ca8518_2912x1938.png)
+![Image from An AI glossary](https://substack-post-media.s3.amazonaws.com/public/images/3ded72ed-e8da-43dd-ba53-50eb67ca8518_2912x1938.png)
 
 ### **Model**
 
@@ -131,11 +131,11 @@ Evals are basically unit tests or benchmarks for your AI product. They run your 
 
 For example, here’s what an eval to measure the toxicity and tone of a model’s response might look like. Your model output would be inserted into the {text} variable:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/9cda3b44-8466-4878-b18d-197fc702688b_2913x1703.jpeg)
+![Image from An AI glossary](https://substack-post-media.s3.amazonaws.com/public/images/9cda3b44-8466-4878-b18d-197fc702688b_2913x1703.jpeg)
 
 Evals are often described by top product leaders as the most critical, yet overlooked, skill for building successful AI products:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/f097be41-cdc9-42be-bf6f-7221b653b871_2913x4511.jpeg)
+![Image from An AI glossary](https://substack-post-media.s3.amazonaws.com/public/images/f097be41-cdc9-42be-bf6f-7221b653b871_2913x4511.jpeg)
 
 [Don’t miss this excellent guest post by Aman Khan](https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete) that teaches you how to craft evals for your product.
 
@@ -179,7 +179,7 @@ For example, “ChatGPT is smart.” might be split into the tokens “Chat,” 
 
 Here’s the paragraph above tokenized by GPT-4o:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/d3088588-455d-4845-9430-7957104ffa7b_1160x550.png)
+![Image from An AI glossary](https://substack-post-media.s3.amazonaws.com/public/images/d3088588-455d-4845-9430-7957104ffa7b_1160x550.png)
 
 ### **Agent**
 
@@ -199,7 +199,7 @@ To borrow a definition from [this recent guest post, “Make product management 
 
 The term originated from [this tweet](https://x.com/karpathy/status/1886192184808149383) by Andrej Karpathy:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/c479abab-b22e-4d16-b666-b28492803ee1_1190x848.png)
+![Image from An AI glossary](https://substack-post-media.s3.amazonaws.com/public/images/c479abab-b22e-4d16-b666-b28492803ee1_1190x848.png)
 
 Vibe coding has come to mean building apps using AI tools like Cursor, Windsurf, Bolt, Lovable, v0, or Replit, by describing what you want in plain English (i.e. prompts) rather than writing code. In many cases, you never look at the code at all.
 

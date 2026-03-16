@@ -3,14 +3,14 @@ title: "Product manager is an unfair role. So work unfairly."
 subtitle: "How to thrive in “the great flattening” by redefining work norms"
 date: "2024-11-12"
 type: "newsletter"
-word_count: 4108
+word_count: 4240
 ---
 
 I believe the future of product management looks like [Tal Raviv](https://www.linkedin.com/in/talsraviv/). He’s an individual contributor (IC) PM who leverages AI tools and a suite of productivity systems to get more done with fewer resources (and management layers). Throughout his more than 10-year career, Tal has actively chosen to stay an IC and, over that time, has honed a set of productivity practices that give him tremendous leverage and impact—beyond what many traditionally believe ICs can achieve**.**In other words, he’s become a “super-IC.”Below, Tal shares seven of the unique productivity tactics that have gotten him to where he is today—and might help you become a super-IC too.
 
 *Tal was an early PM at Patreon, Riverside, Wix, and AppsFlyer. For more from Tal, check out his [63 free video tutorials](https://talraviv.co/) on using AI agents at work, his other popular guest post on [building your AI thinking partner](https://www.lennysnewsletter.com/p/build-your-personal-ai-copilot), and his [episode on Lenny’s Podcast](https://www.lennysnewsletter.com/p/the-super-ic-pm-tal-raviv). You can also book Tal for an [AI build sprint](https://talraviv.co/build-sprints) with your team.*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/e6321b91-d622-4e28-9439-0a582a297684_4000x2000.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/e6321b91-d622-4e28-9439-0a582a297684_4000x2000.png)
 
 Product management is unfair. We’re expected to be on both a [maker](https://www.paulgraham.com/makersschedule.html) *[and](https://www.paulgraham.com/makersschedule.html)* [a manager’s schedule](https://www.paulgraham.com/makersschedule.html). Nothing is planned around “PM capacity.” We can’t hire or fire but are expected to make things happen (and fast). We are the cushion for organizational dysfunction. Any PM reading this could add a dozen more reasons.
 
@@ -38,7 +38,7 @@ Let’s use “sending out a meeting summary” as an example action item from a
 
 When the meeting has come to an end, I ask everyone to take a look at the screen and make sure that I got it right. Once we have a consensus, I hit “enter” on the spot and stop the screen share.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/b236a231-bebb-4288-bd5b-481990a2d454_1600x963.jpeg)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/b236a231-bebb-4288-bd5b-481990a2d454_1600x963.jpeg)
 
 Sounds selfish to do this in front of everyone, right? Turns out colleagues and stakeholders appreciate it. From their point of view, you’re taking the lead, bringing clarity, getting it done immediately, and aligning with them—all before hitting enter.
 
@@ -48,7 +48,7 @@ Extend this approach to other meeting action items:
 - Ping a colleague for input (i.e. screenshare and say, “I’ll try to quickly get a response while we’re still in the meeting”)
 - Schedule the next meeting (i.e. screenshare the “find a time” screen that can be moved: “Let’s make sure we get this on the calendar and move anything we need to”)
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/319f0780-d5ec-4abe-83f5-4c0557868e3c_603x251.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/319f0780-d5ec-4abe-83f5-4c0557868e3c_603x251.png)
 
 ## 2. Cheat your way out of meetings with “59-second Looms”
 
@@ -64,7 +64,7 @@ Treat your audience like, well, an audience; be intentional about converting the
 - Film two takes (or more) to get your message clear and succinct
 - In your message, pitch the brevity and time ROI for everyone:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/ab02f1e7-3c0a-4a3b-8c2e-51d29a79e26f_1600x900.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/ab02f1e7-3c0a-4a3b-8c2e-51d29a79e26f_1600x900.png)
 
 Most PMs still don’t do Looms outside of major announcements or bug reports. I get it. Treat this as a core PM communication skill. Whoever gets over the awkwardness will have a huge productivity advantage.
 
@@ -79,18 +79,18 @@ To anyone outside the product team, we *are* design, engineering, QA, data, know
 1. Don’t go into Slack for the first half of your day (or pick the best window for *your* time zone, cadence, and teammates). This has been my ironclad rule since 2016, at three hypergrowth companies, while PMing multiple teams at once. And it has never once gotten in the way of supporting my team or achieving my goals.
 2. When you do go into Slack, put it to work for you: configure Slack sections to compartmentalize and help you prioritize where to look first, and collapse everything that isn’t urgent.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/03d6984f-1c77-4638-9827-ae0f741eebd7_548x354.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/03d6984f-1c77-4638-9827-ae0f741eebd7_548x354.png)
 
 Once I’ve taken care of the critical channels where I am a bottleneck, the pressure goes down, and I can calmly and intentionally scan the rest.
 3. Hide read channels ([how to do this](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)). This feature makes Slack feel smaller and a lot more manageable, which makes a big difference when you’re getting a million pings a day. I’m always surprised how few people turn on this setting compared with the number of people who complain about “too many Slack channels.”
 
 If I use sections and combine it with hiding read channels, my Slack looks like this in the middle of the day:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/ae2a1ed1-f781-4bc0-ad3a-81ec7fb52a89_559x872.jpeg)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/ae2a1ed1-f781-4bc0-ad3a-81ec7fb52a89_559x872.jpeg)
 
 4. Let Slack reminders be your robot executive assistant. I love how [Lenny put it](https://www.lennysnewsletter.com/p/time-management-techniques-that-actually): “One of the most important habits of highly effective PMs is creating an aura of ‘I got this,’ and the best way to build that aura is to never drop the ball.” A sizable fraction of threads you start will get ghosted, and no one will care that the other person dropped the ball. Use Slack reminders to give folks a “friendly bump.” You’ll appear to be the most “on it” person in the company, and you’ll actually be doing your job well—busy team members rely on PMs to keep them on schedule and aligned.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/2012c22e-377c-4b0d-a1ac-d3a1cec6c515_842x212.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/2012c22e-377c-4b0d-a1ac-d3a1cec6c515_842x212.png)
 
 ## 4. Cultivate a team that operates without you
 
@@ -119,7 +119,7 @@ Use these “micro-interactions” to shape a culture where *product isn’t a r
 
 Since so much happens in Slack, it’s a huge lever for promoting team autonomy. As much as it makes you feel special and needed, remember: **DMs are the devil.** Anytime somebody sends you a direct message (and it’s not confidential), your reflex should be to ask them to repost the same message in a public channel. Not only are public channels more transparent, collaborative, drive faster resolutions, and easier to find later—it also serves as a cultural example for others to do the same.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/43131f11-4d90-4a85-b73a-274c03ea2407_1600x362.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/43131f11-4d90-4a85-b73a-274c03ea2407_1600x362.png)
 
 Yes, this can be uncomfortable. But imagine this: it’s been hours of back-to-back meetings, the sun has already set, and you exhaustedly pull up Slack. Would you prefer to see:
 
@@ -141,7 +141,7 @@ Company roadmaps might be linear, but customer insights from outside the buildin
 
 I keep the notes lightweight, I collect clues from all over, and I don’t invest a lot of time in organizing the document, because I don’t know if an idea will ever get prioritized. I mainly make sure to give each “scrap” a good title so that future me can find it easily.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/b8bb9f94-f33e-45b2-bbe1-2f8d3ad49568_551x990.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/b8bb9f94-f33e-45b2-bbe1-2f8d3ad49568_551x990.png)
 
 If someone suggests a solution and it reminds me of something I’ve already been tracking, I can share real-world context on the spot. If this idea becomes a prioritized initiative, I already have the juiciest bits of a kickoff presentation.
 
@@ -263,11 +263,11 @@ While it’s important to sprinkle short breaks throughout the day to keep atten
 
 I’ll reach a higher peak of creativity and fresher perspective on Monday morning when I fully disconnect on the weekend after working a little harder for five days straight:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/569a39d6-f051-4fe6-8bed-66c06f93d41c_1234x395.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/569a39d6-f051-4fe6-8bed-66c06f93d41c_1234x395.png)
 
 I’ll feel more refreshed in the morning if I work a little later and then fully log off for the night:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/a8548431-71d6-4cde-9293-f0eeabcb8450_702x659.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/a8548431-71d6-4cde-9293-f0eeabcb8450_702x659.png)
 
 While it’s great to take a bunch of one-day vacations, I get a different level of clarity when I step away for at least a week of contiguous, unplugged PTO. You get the principle.
 
@@ -287,7 +287,7 @@ Here’s how I improve the *quality* of my resting time:
 
 Speaking of Slack, their San Francisco office was known for the mural “Work hard and go home,” reminding employees that the best way to sustain their energy is to separate the parts of their day.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/cd387d87-4152-4b36-9eb3-641b275119b9_1600x1200.png)
+![Image from Product manager is an unfair role. So work unfairly](https://substack-post-media.s3.amazonaws.com/public/images/cd387d87-4152-4b36-9eb3-641b275119b9_1600x1200.png)
 
 ## In closing
 

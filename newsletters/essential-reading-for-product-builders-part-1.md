@@ -3,7 +3,7 @@ title: "Essential reading for product builders—part 1"
 subtitle: "7 timeless essays you likely haven’t read but should"
 date: "2025-07-15"
 type: "newsletter"
-word_count: 2841
+word_count: 2850
 ---
 
 *👋 Welcome to a **🔒 paid edition 🔒** of my weekly newsletter. Each week, I tackle reader questions about building product, driving growth, and accelerating your career. For more: **[Lenny’s Podcast](https://www.lennysnewsletter.com/podcast) |** **[How I AI](https://www.youtube.com/@howiaipodcast)** **| [Lennybot](https://www.lennybot.com/) | [Lenny’s Reads](https://www.lennysnewsletter.com/s/lennys-reads)** | **[Courses](https://maven.com/lenny) | [Swag](https://lennyswag.com/)***
@@ -24,7 +24,7 @@ Note that this isn’t an exhaustive list. And I’m not including books—yet. 
 
 *Bonus: You can also listen to this post in convenient podcast form: [Spotify](https://open.spotify.com/show/0IIunA06qMtrcQLfypTooj) / [Apple](https://podcasts.apple.com/us/podcast/lennys-reads/id1810314693) / [YouTube](https://www.youtube.com/@lennysreads).*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/c230bf55-47d9-4798-a01d-1d4fbb48624d_2912x1940.png)
+![Image from Essential reading for product builders—part 1](https://substack-post-media.s3.amazonaws.com/public/images/c230bf55-47d9-4798-a01d-1d4fbb48624d_2912x1940.png)
 
 ### 1. [Who’s Got the Monkey](https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf)?, by William Oncken, Jr., and Donald L. Wass
 

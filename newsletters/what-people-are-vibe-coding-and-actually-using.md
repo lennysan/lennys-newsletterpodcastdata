@@ -3,7 +3,7 @@ title: "What people are vibe coding (and actually using)"
 subtitle: "50+ useful/fun/clever examples of what non-technical people are building—to inspire your own vibe-coding journey"
 date: "2025-07-08"
 type: "newsletter"
-word_count: 4396
+word_count: 4656
 ---
 
 Everyone’s talking about [vibe coding](https://www.lennysnewsletter.com/i/153296003/vibe-coding), and how important it is to get your hands dirty by using the latest AI tools. But what are people building? And are these products useful, like for real? The answer is a resounding yes.
@@ -26,27 +26,27 @@ As you’re reading through this list and wondering what to do, try opening up o
 
 Thank you to all 1,000+ of you who shared your stories 🙏
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/76fa567a-807e-450c-b3ed-3cbd5515fded_2912x1940.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/76fa567a-807e-450c-b3ed-3cbd5515fded_2912x1940.png)
 
 ## **Health, wellness, and style**
 
 ### Carb counter, by [Morgan Brown](https://www.linkedin.com/in/morganb/) using Replit
 
-> “I built CarbScanto help manage my son’s diabetes and blood glucose levels with faster carb counting. I used Replit. Has become a daily go-to.” [[Check it out](http://carbscan.ai)]
+> “I built CarbScanto help manage my son’s diabetes and blood glucose levels with faster carb counting. I used Replit. Has become a daily go-to.” [[Check it out](https://carbscan.ai)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/d6282e81-3b18-46ca-918c-27036e3e3264_948x1242.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/d6282e81-3b18-46ca-918c-27036e3e3264_948x1242.png)
 
 ### Lash tracker, by [Jackie Bavaro](https://x.com/jackiebo/) using Replit
 
 > “Every time I put on new eyelashes, I take a picture and record the styles and method used.” [[Check it out](https://lash-map-tracker.replit.app/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/65d03d29-dccb-40bb-a1d2-20f0d6b2a1d7_1170x1554.jpeg)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/65d03d29-dccb-40bb-a1d2-20f0d6b2a1d7_1170x1554.jpeg)
 
 ### How many layers should I wear today?, by [Vijith Quadros](https://x.com/vijithq/) using Lovable
 
 > “I vibe coded this with Lovable and use it myself every single day. It’s grown to 85K users in total in nine months. Weather apps had too much clutter for simple daily clothing decisions.” [[Check it out](https://howmanylayersidag.se/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/0b593729-f3df-491d-a1d3-ad1f26f6c403_1218x1206.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/0b593729-f3df-491d-a1d3-ad1f26f6c403_1218x1206.png)
 
 ### A “stupidly specific” workout app, by [Faraz Khan](https://x.com/farazKhan404) using v0 and Claude Code
 
@@ -58,27 +58,27 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I built a web app using Lovable, Supabase, and Cursor where you can upload photos of your fridge/pantry/receipts (or use voice) to detect ingredients you have at home, save to ‘inventory,’ and generate recipes using AI.
 >
-> It factors in the user’s set dietary preferences and input of how strict/flexible recipes should be with using what you have in inventory vs. things you need to buy. It also auto-generates a shopping list for ingredients you need to buy for selected recipes.” [[Check it out](http://mealmuse.ai/)]
+> It factors in the user’s set dietary preferences and input of how strict/flexible recipes should be with using what you have in inventory vs. things you need to buy. It also auto-generates a shopping list for ingredients you need to buy for selected recipes.” [[Check it out](https://mealmuse.ai/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/379572df-f331-438d-a5c4-65f903468223_1232x817.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/379572df-f331-438d-a5c4-65f903468223_1232x817.png)
 
 ### Find out what’s blocking your flow, by [Su](https://x.com/su_dreams) using Bolt
 
 > “Flowbound is an app that gives me games/exercises to do when I find myself procrastinating on something (which is often).” [[Check it out](https://www.flowbound.app/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/eb71a55a-c353-43db-a7fe-10521f5062a9_2744x1572.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/eb71a55a-c353-43db-a7fe-10521f5062a9_2744x1572.png)
 
 ### Pickleball games tracker, by [Jacob Jolibois](https://www.linkedin.com/in/jolibois/) using Replit
 
 > “I (and users from all across the U.S.) use Paddles.ai to track and analyze my pickleball matches. Vibe coded and deployed on Replit.” [[Check it out](https://www.paddles.ai/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/78e1289e-bbf7-410b-82a2-f31d9fa68ec7_2334x1514.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/78e1289e-bbf7-410b-82a2-f31d9fa68ec7_2334x1514.png)
 
 ### Nicotine pouch tracker, by [Thatcher](https://x.com/thatchhh)using Cursor
 
 > “I have no coding background and vibe coded this as my first app with Cursor/Xcode + SwiftUI. It helps you taper off high nicotine usage. It’s sticky until you’re ready to quit. Took a month to launch. Recently redesigned from scratch in a couple days.” [[Check it out](https://apps.apple.com/us/app/nicotine-pouch-tracker-pouched/id6740014859?itscg=30200&itsct=apps_box_link&mttnsubad=6740014859)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/f991d2c3-d9d0-437c-9064-633590516c80_2018x890.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/f991d2c3-d9d0-437c-9064-633590516c80_2018x890.png)
 
 ## **Parenting and family**
 
@@ -86,13 +86,13 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I built Storypot entirely on Replit for my kid. Other kids and parents also seem to like it. We and 60-odd families use it frequently.” [[Check it out](https://app.thestorypot.com)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/ed3382a3-6665-4cb6-9fb1-314ecfafedc6_1438x1542.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/ed3382a3-6665-4cb6-9fb1-314ecfafedc6_1438x1542.png)
 
 ### Teach your kids budgeting and savings, by [Sanjeev Nair](https://x.com/sanjeevn72) using Claude Code
 
 > “I built a simple app using Claude Code to help my kids figure out expense planning and saving when in college. Great value add considering it’s a tough topic for parents to make teenagers focus/lean toward.” [[Check it out](https://claude.ai/public/artifacts/f4a86536-5062-4570-a8ef-5a93e6bf671f)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/05d41378-fb22-40b1-a571-18c82cc1d30a_2452x1496.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/05d41378-fb22-40b1-a571-18c82cc1d30a_2452x1496.png)
 
 ### Turn family photos into videos, by [Oren Saban](https://www.linkedin.com/in/oren-saban/) using Lovable and Bolt
 
@@ -100,7 +100,7 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 >
 > I also built a logo animator with Bolt that uses the GSAP library to animate our logo in cool ways, for different onboarding experiences.” [[Check it out](https://timelessmemories.me/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/d7d22a0c-6d6f-4d7c-bb66-29021065c43e_2724x1648.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/d7d22a0c-6d6f-4d7c-bb66-29021065c43e_2724x1648.png)
 
 ### Baby care tracking, by [Javier Evelyn](https://x.com/hah_vee_AIR) using Lovable
 
@@ -112,13 +112,13 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I built a chores app for my kids. It’s my first iOS app! I started with v0 but quickly moved off it and started using Claude to help me through areas where I got stuck.” [[Check it out](https://www.chores-ai.com/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/99a5a0c6-5f7e-47fd-a724-381c01d30aee_2532x1384.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/99a5a0c6-5f7e-47fd-a724-381c01d30aee_2532x1384.png)
 
 ### A bedtime storytelling app, by [Harshitha P.](https://www.linkedin.com/in/harshitha-p-991776149/) using Bolt
 
 > “I built this for parents, and now I use it every night. It’s a bedtime storytelling ritual that turns your daily emotions into personalized stories for your child. You reflect, drop a ‘pebble’ or plant a ‘story seed,’ and the app creates a calming, age-appropriate story shaped by what’s on your heart. I built it solo in Bolt + Supabase**,** and what started as a side project became my nightly parenting ritual.” [[Check it out](https://stories-of-life.vercel.app/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/1a234757-3dcf-42ca-ba49-05ef2da2109c_2394x1564.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/1a234757-3dcf-42ca-ba49-05ef2da2109c_2394x1564.png)
 
 ### Personalized greeting card generator, by [Bob Sheth](https://x.com/bobsheth) using Cursor, Windsurf, and Claude Code
 
@@ -138,7 +138,7 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I use this daily at work.” [[Check it out](https://standup-buddy.lovable.app/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/decb63ea-31f3-45fa-855a-9a61d0ddbfd8_1318x1032.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/decb63ea-31f3-45fa-855a-9a61d0ddbfd8_1318x1032.png)
 
 ### Chrome extension to share your availability, by [Olena Vozna](https://www.linkedin.com/in/alionavozna/) using Replit
 
@@ -146,7 +146,7 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 >
 > Then, a Slack app for team scheduling that uses the same core algorithm. It learns everyone’s preferences and finds the best time when I type something like *Schedule a 45-minute call with Mary and Jane this week.* Or *Schedule a focus time for me today. I need 2 hours.* Both were built with Replit.”
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/e8c97ef4-9643-4aae-8fdf-406e933e82c5_1176x360.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/e8c97ef4-9643-4aae-8fdf-406e933e82c5_1176x360.png)
 
 ### A time tracking app, by [Asif](https://x.com/asifkabeer) using Warp.dev
 
@@ -158,13 +158,13 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I built a Gmail add-on that doesn’t let my inbox hijack my day or steal my attention. I use it every day. It holds my inbound email and delivers it to my inbox on a schedule I set (e.g. 10 a.m. and 3 p.m.) but still lets important emails through right away if they match certain VIP keywords (e.g. verification code), VIP domains (e.g. my-kid’s-school.org), or VIP email addresses (e.g. wife@gmail.com). Built with Gemini.”
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/68d7b391-b68e-409d-bee8-371b17eae1a0_1280x1059.jpeg)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/68d7b391-b68e-409d-bee8-371b17eae1a0_1280x1059.jpeg)
 
 ### Accomplishments tracker to showcase your wins at work, by [Kevin Kirkpatrick](https://www.linkedin.com/in/kevinkandco/) using Lovable
 
 > “Built this for myself because I hate updating my resume, and I think other people hate it too. Built it with Lovable and I use it weekly to track what I’ve accomplished.” [[Check it out](https://www.goaccomplishit.com/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/274b84bb-9721-47ea-90f9-b3e3cceb2c4b_2032x1584.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/274b84bb-9721-47ea-90f9-b3e3cceb2c4b_2032x1584.png)
 
 ## **Personal productivity**
 
@@ -172,19 +172,19 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I built Buzzerbee using Bolt and Cursor. It automatically answers your apartment buzzer calls based on the access rules and schedules you set in the app. I’ve been using it daily, and others have been joining as well. Turns out people don’t like missing deliveries!” [[Check it out](https://buzzerbee.app/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/ced5b879-9a10-4bbe-b164-c52157ad6f05_2368x1346.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/ced5b879-9a10-4bbe-b164-c52157ad6f05_2368x1346.png)
 
 ### Bill splitter, by [Shashikiran Devadiga](https://www.linkedin.com/in/shashikirandevadiga/) using Lovable
 
 > “My one-screen, tip-first bill splitter. Whenever friends float dinner plans, I plug in the menu subtotal, head count, pick the state, and nudge the tip slider. In two seconds, I see each person’s final after-tax share—something Splitwise can’t show until the check arrives. It’s become my quick ‘Can I afford this outing?’ filter and saves the awkward math at the table. And I built it using Lovable dev + Unicorn Studio.” [[Check it out](https://my-bill-split-project.lovable.app)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/555d915a-a3ae-475f-9ef8-3762b811ca94_1592x1228.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/555d915a-a3ae-475f-9ef8-3762b811ca94_1592x1228.png)
 
 ### A personalized restaurant recommendation app for friends, by [Lani Young](https://www.linkedin.com/in/lani-young/) using Replit
 
-> “I used Replit to bring to life something I’ve always wanted to build: a restaurant recommendation site for my friends to give them a curated restaurant recommendation based on what they are looking for in a specific meal/experience. It’s a combo of a database, RAG, and natural language chat with an LLM. Right now, it’s only Denver-based, but aiming to fill that gap between Yelp (too much junk/can’t trust the recommendation) and trying to find a new place.” [[Check it out](http://www.curated.now)]
+> “I used Replit to bring to life something I’ve always wanted to build: a restaurant recommendation site for my friends to give them a curated restaurant recommendation based on what they are looking for in a specific meal/experience. It’s a combo of a database, RAG, and natural language chat with an LLM. Right now, it’s only Denver-based, but aiming to fill that gap between Yelp (too much junk/can’t trust the recommendation) and trying to find a new place.” [[Check it out](https://www.curated.now)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/1dd2495d-41dd-4a88-a6ce-8f3964dc12e9_2440x1496.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/1dd2495d-41dd-4a88-a6ce-8f3964dc12e9_2440x1496.png)
 
 ## **Personal development**
 
@@ -192,7 +192,7 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “This lets you paste in the transcript from a call and gives you a breakdown of what you did well and what you can improve on. I just used Claude Code. It’s surprisingly powerful.” [[Check it out](https://claude.ai/public/artifacts/cf207ca7-a35a-42e6-8843-3d5edcccf9f8)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/f2375201-609e-42dd-ba31-7118e00cf57a_2302x1378.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/f2375201-609e-42dd-ba31-7118e00cf57a_2302x1378.png)
 
 ### Daily newsletter to help you learn a language, by [Dustin Coates](https://www.linkedin.com/in/dustincoates/) using v0
 
@@ -204,7 +204,7 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 >
 > I tried Replit, Bolt, Gemini, and v0, and v0 came out with the best newsletter design. Then I had v0 also create the script for running the email (via Resend) and a script for packaging the code to upload to Lambda.”
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/3554a0a7-df44-4412-9a31-6424f290f877_3000x2078.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/3554a0a7-df44-4412-9a31-6424f290f877_3000x2078.png)
 
 ### Talk to an AI about your day, by [Alex Mathew](https://x.com/alxmthew) using Replit
 
@@ -218,13 +218,13 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I made a website to help with artist discovery for UK festivals. I use it to quickly generate playlists. I wouldn’t say it’s widely used beyond a handful of people. But it’s quite decent. I used Cursor and backed by Supabase for Spotify authentication. Currently all running on free tier infrastructure.” [[Check it out](https://www.fyredrill.dev/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/0d2effae-ed91-4377-9d2b-cf5ed6a03827_1980x1670.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/0d2effae-ed91-4377-9d2b-cf5ed6a03827_1980x1670.png)
 
 ### A music production tool to inspire new ideas, by [Scott Korchinski](https://www.linkedin.com/in/scottkorchinski/) using v0 and Cursor
 
 > “I made this music production tool the first week we got the Lenny AI bundle, with 90% v0 and 10% Cursor. I think it took three days from idea to shipping. I use it weekly just to get inspired for new musical ideas. Hotjar shows a handful of users per week, too!” [[Check it out](https://splintr.dreamgazeraudio.com/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/5d8659fb-2d0f-4a65-b8a2-a494423ee67d_2270x1676.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/5d8659fb-2d0f-4a65-b8a2-a494423ee67d_2270x1676.png)
 
 ## **Other/Fun**
 
@@ -232,13 +232,13 @@ Thank you to all 1,000+ of you who shared your stories 🙏
 
 > “I love RPG games and was looking for an online, AI-based RPG game so I can play without friends around. I then vibe coded Rehearsal—a browser game where you have 10 minutes to convince an AI character. For example, to convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent. I used Cursor (Sonnet 3.7) + Next.js. I built a first version in a day. Since then, both my g.f. and I are addicted to it and play daily.” [[Check it out](https://rehearsal.so/)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/7fa3101a-b327-4d34-9ea0-39d84284d6e1_2492x1684.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/7fa3101a-b327-4d34-9ea0-39d84284d6e1_2492x1684.png)
 
 ### Immigration document manager, by [Shree](https://x.com/sreeenidhi) using v0
 
-> “Immigrants from India and China have a 10- to 20-year journey where you have to file something every couple of years. VisaMonkey keeps all your immigration-related documents in one place so you can find the information you are looking for quickly instead of searching through mountains of documents. It’s also useful to fill out forms.” [[Check it out](http://visamonkey.com)]
+> “Immigrants from India and China have a 10- to 20-year journey where you have to file something every couple of years. VisaMonkey keeps all your immigration-related documents in one place so you can find the information you are looking for quickly instead of searching through mountains of documents. It’s also useful to fill out forms.” [[Check it out](https://visamonkey.com)]
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/95a40999-7c78-4d19-8302-26b5964154f9_2602x1690.png)
+![Image from What people are vibe coding (and actually using)](https://substack-post-media.s3.amazonaws.com/public/images/95a40999-7c78-4d19-8302-26b5964154f9_2602x1690.png)
 
 ### **Have you vibe coded something that you use regularly? Share a link (and what you used to build it) in the comments to inspire others on their journey. 👇**
 

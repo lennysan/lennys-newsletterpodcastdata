@@ -3,7 +3,7 @@ title: "State of the product job market in 2025"
 subtitle: "There’s a lot to be optimistic about"
 date: "2025-05-13"
 type: "newsletter"
-word_count: 1206
+word_count: 1376
 ---
 
 Last year, I did a two-part series on the state of the product job market (see [part 1](https://www.lennysnewsletter.com/p/new-data-on-the-product-job-market), [part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part)), where we found:
@@ -35,37 +35,37 @@ In spite of what you’re hearing about recessions and AI taking jobs, open role
 
 There are over 6,000 open PM roles globally right now—53.6% above the bottom we saw in 2023, and already up 11% since the start of the year. This is the most open PM roles we’ve seen in over two years.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/6c8bdf74-b339-4a01-8bd4-d05c7b04ec1f_2913x2491.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/6c8bdf74-b339-4a01-8bd4-d05c7b04ec1f_2913x2491.jpeg)
 
 Engineering role growth looks very similar—just scaled up 10x. Open engineering roles saw an uptick earlier this year, and we’re currently seeing the highest number of open roles since late 2022.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/024a1995-988c-4f70-bc59-f757fc723b2d_2913x2491.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/024a1995-988c-4f70-bc59-f757fc723b2d_2913x2491.jpeg)
 
 Designer roles have been more stable over time than PM and engineering. They do seem to be dipping a bit recently, but they also never saw as deep a dip as PM and engineering did over the past few years.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/4b195c04-6a89-46a0-89c4-ba130785a6d8_2913x2491.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/4b195c04-6a89-46a0-89c4-ba130785a6d8_2913x2491.jpeg)
 
 ## **2. AI roles are exploding**
 
 When you look at just AI PM roles—which includes roles at both AI companies (e.g. OpenAI, Anthropic, Scale) and roles specifically focused on AI products/features at any tech company (e.g. AI/ML PM at Salesforce), the growth we’re seeing is insane. [There are 688 open AI PM roles today](https://trueup.io/ai-product).
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/6f8715a7-df99-43eb-94f0-f549c2dd4d46_2913x2411.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/6f8715a7-df99-43eb-94f0-f549c2dd4d46_2913x2411.jpeg)
 
 Zooming out further, here are all “AI” open roles globally. This includes all open roles at what we consider AI companies (e.g. OpenAI, Anthropic, Scale), roles at companies that are heavily AI-driven (e.g. Cursor, Harvey, Lovable), and AI-specific roles at non-AI companies (e.g. AI PM at Figma).
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/e1d51c6c-0707-40f6-9ea9-a671e3bce398_2912x2305.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/e1d51c6c-0707-40f6-9ea9-a671e3bce398_2912x2305.jpeg)
 
 ## **3. Layoffs are slowing**
 
 More good news: We’re on track to see fewer layoffs this year than in the past four years. However, the possibility of future cuts is ever-present, even at the most respected companies.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/12c582e6-a67f-4739-9272-78f376814cf9_2913x2454.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/12c582e6-a67f-4739-9272-78f376814cf9_2913x2454.jpeg)
 
 ## **4. Capital investment is increasing**
 
 We’re seeing more capital investment (e.g. GPUs, data centers, etc.) this year than ever (+29% from last year, +227% from five years ago). It’s still unclear if this only means more hardware or whether it will also lead to more jobs, but I’d rather see this than have it going in the other direction.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/15ac2f42-1f5c-480c-8ab9-8bdd011001e4_2913x3191.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/15ac2f42-1f5c-480c-8ab9-8bdd011001e4_2913x3191.jpeg)
 
 ## **5. The Bay Area continues to be the center of opportunity**
 
@@ -73,23 +73,23 @@ For most tech roles, the Bay Area continues to have the most open roles of any c
 
 For PMs, nearly 20% of all open roles are based in the Bay Area.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/8119b3f9-ff30-4dc2-864a-d9941ea02a6d_2913x2446.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/8119b3f9-ff30-4dc2-864a-d9941ea02a6d_2913x2446.jpeg)
 
 [Since our last analysis](https://www.lennysnewsletter.com/i/149172750/which-cities-have-the-most-open-pm-roles), Berlin and Austin entered the top 10 locations with the most open PM roles, and Boston and L.A. fell out of the top 10.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/39fffad0-2136-4e17-a480-795462e17a7a_2913x2584.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/39fffad0-2136-4e17-a480-795462e17a7a_2913x2584.jpeg)
 
 For engineering, over 17% of all open roles are based in the Bay Area—and that share is increasing.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/2d867446-b362-4b0d-ae66-48e4cd2377d9_2913x2446.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/2d867446-b362-4b0d-ae66-48e4cd2377d9_2913x2446.jpeg)
 
 Even more so for design roles (assuming that recent dip is temporary).
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/0747016a-e6ec-4fbf-a5a6-a714e953ec8d_2912x2446.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/0747016a-e6ec-4fbf-a5a6-a714e953ec8d_2912x2446.jpeg)
 
 The share of roles based in the Bay Area is even more interesting for “AI” jobs—almost a third of all open AI-related roles globally continue to be based in the Bay Area. 😮
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/42535ae1-79ee-4e4a-b2d3-acca19b8ff02_2913x2446.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/42535ae1-79ee-4e4a-b2d3-acca19b8ff02_2913x2446.jpeg)
 
 ## **6. Remote work opportunities are declining**
 
@@ -97,11 +97,11 @@ The number of roles that allow you to work remotely continues to decline. At rem
 
 The trend is clear, and we’re probably near the new baseline of around 20% of roles being remote-friendly.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/439de8fe-9c97-47ab-af32-c8ee276720d4_2913x2445.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/439de8fe-9c97-47ab-af32-c8ee276720d4_2913x2445.jpeg)
 
 That trend is identical for engineering and designer roles.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/184095e9-4219-4a61-b82c-dfe80fa006f2_2913x2445.jpeg)![](https://substack-post-media.s3.amazonaws.com/public/images/d949a6bb-395c-45c9-9f5c-0f37f36d7ee2_2913x2445.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/184095e9-4219-4a61-b82c-dfe80fa006f2_2913x2445.jpeg)![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/d949a6bb-395c-45c9-9f5c-0f37f36d7ee2_2913x2445.jpeg)
 
 ## **7. There are lots of open PM roles around the world**
 
@@ -109,11 +109,11 @@ Finally, if you’re looking for a PM gig and having a hard time, keep going. Th
 
 Here’s a list of the top 20 companies that have the most open roles. [You can browse all the open roles here](https://trueup.io/product).
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/8f1f5268-ef61-495f-8bef-31570d3cfaf3_2913x4698.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/8f1f5268-ef61-495f-8bef-31570d3cfaf3_2913x4698.jpeg)
 
 If you’re looking for an AI PM role specifically, here’s who’s hiring:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/bf1dfaf7-1b13-4c51-8dea-99f00d81b274_2913x4698.jpeg)
+![Image from State of the product job market in 2025](https://substack-post-media.s3.amazonaws.com/public/images/bf1dfaf7-1b13-4c51-8dea-99f00d81b274_2913x4698.jpeg)
 
 ## Other trends we’re following
 

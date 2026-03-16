@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-16T17:53:33.021805+00:00",
+  "generated_at": "2026-03-16T18:38:09.941594+00:00",
   "podcasts": [
     {
       "title": "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
@@ -407,70 +407,70 @@
     {
       "title": "How to build your PM second brain with ChatGPT",
       "filename": "newsletters/how-to-build-your-pm-second-brain-with-chatgpt.md",
-      "word_count": 3149,
+      "word_count": 3358,
       "date": "2025-12-16",
       "subtitle": "Use AI to amplify your craft, not replace it"
     },
     {
       "title": "Everyone should be using Claude Code more",
       "filename": "newsletters/everyone-should-be-using-claude-code-more.md",
-      "word_count": 3909,
+      "word_count": 4098,
       "date": "2025-10-14",
       "subtitle": "How to get started, and 50 ways non-technical people are using Claude Code in their work and life"
     },
     {
       "title": "Essential reading for product builders—part 1",
       "filename": "newsletters/essential-reading-for-product-builders-part-1.md",
-      "word_count": 2841,
+      "word_count": 2850,
       "date": "2025-07-15",
       "subtitle": "7 timeless essays you likely haven’t read but should"
     },
     {
       "title": "What people are vibe coding (and actually using)",
       "filename": "newsletters/what-people-are-vibe-coding-and-actually-using.md",
-      "word_count": 4396,
+      "word_count": 4656,
       "date": "2025-07-08",
       "subtitle": "50+ useful/fun/clever examples of what non-technical people are building—to inspire your own vibe-coding journey"
     },
     {
       "title": "An AI glossary",
       "filename": "newsletters/an-ai-glossary.md",
-      "word_count": 3255,
+      "word_count": 3280,
       "date": "2025-06-24",
       "subtitle": "The most common AI terms explained, simply"
     },
     {
       "title": "State of the product job market in 2025",
       "filename": "newsletters/state-of-the-product-job-market-in-2025.md",
-      "word_count": 1206,
+      "word_count": 1376,
       "date": "2025-05-13",
       "subtitle": "There’s a lot to be optimistic about"
     },
     {
       "title": "Beyond vibe checks: A PM’s complete guide to evals",
       "filename": "newsletters/beyond-vibe-checks-a-pms-complete-guide-to-evals.md",
-      "word_count": 3448,
+      "word_count": 3558,
       "date": "2025-04-08",
       "subtitle": "How to master the emerging skill that can make or break an AI product"
     },
     {
       "title": "A guide to AI prototyping for product managers",
       "filename": "newsletters/a-guide-to-ai-prototyping-for-product-managers.md",
-      "word_count": 4219,
+      "word_count": 4449,
       "date": "2025-01-07",
       "subtitle": "How to turn your idea into a working prototype in minutes"
     },
     {
       "title": "Product manager is an unfair role. So work unfairly.",
       "filename": "newsletters/product-manager-is-an-unfair-role-so-work-unfairly.md",
-      "word_count": 4108,
+      "word_count": 4240,
       "date": "2024-11-12",
       "subtitle": "How to thrive in “the great flattening” by redefining work norms"
     },
     {
       "title": "How Duolingo reignited user growth",
       "filename": "newsletters/how-duolingo-reignited-user-growth.md",
-      "word_count": 4714,
+      "word_count": 4812,
       "date": "2023-02-28",
       "subtitle": "The story behind Duolingo's 350% growth acceleration, leaderboards, streaks, notifications, and innovative growth model"
     }

@@ -3,22 +3,22 @@ title: "Beyond vibe checks: A PM’s complete guide to evals"
 subtitle: "How to master the emerging skill that can make or break an AI product"
 date: "2025-04-08"
 type: "newsletter"
-word_count: 3448
+word_count: 3558
 ---
 
 I’m going to keep this intro short because this post is so damn good, and so damn timely.
 
 Writing evals is quickly becoming a core skill for anyone building AI products (which will soon be everyone). Yet there’s very little specific advice on how to get good at it. Below you’ll find everything you need to understand wtf evals are, why they are so important, and how to master this emerging skill.
 
-Aman Khan runs a popular [course on evals developed with Andrew Ng](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/), is Director of Product at Arize AI (a leading AI company), and has been a product leader at Spotify, Cruise, Zipline, and Apple. He was also a [past podcast guest](https://www.youtube.com/watch?v=E_rNotqs--I) and is launching his first [Maven course on AI product management](https://maven.com/aman-khan/thriving-as-an-ai-pm) this spring. If you’re looking to get more hands-on, definitely check out Aman’s upcoming free 30-minute lightning lesson on April 18th: [Mastering Evals as an AI Product Manager](https://maven.com/p/e55ece/mastering-evals-as-an-ai-product-manager). You can find Aman on [X](https://x.com/_amankhan), [LinkedIn](https://www.linkedin.com/in/amanberkeley/), and [Substack](http://aiproductplaybook.com/).
+Aman Khan runs a popular [course on evals developed with Andrew Ng](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/), is Director of Product at Arize AI (a leading AI company), and has been a product leader at Spotify, Cruise, Zipline, and Apple. He was also a [past podcast guest](https://www.youtube.com/watch?v=E_rNotqs--I) and is launching his first [Maven course on AI product management](https://maven.com/aman-khan/thriving-as-an-ai-pm) this spring. If you’re looking to get more hands-on, definitely check out Aman’s upcoming free 30-minute lightning lesson on April 18th: [Mastering Evals as an AI Product Manager](https://maven.com/p/e55ece/mastering-evals-as-an-ai-product-manager). You can find Aman on [X](https://x.com/_amankhan), [LinkedIn](https://www.linkedin.com/in/amanberkeley/), and [Substack](https://aiproductplaybook.com/).
 
 Now, on to the post. . .
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/d984d483-4383-4b24-83cd-5dea71e48d05_2912x1925.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/d984d483-4383-4b24-83cd-5dea71e48d05_2912x1925.jpeg)
 
 After years of building AI products, I’ve noticed something surprising: every PM building with generative AI obsesses over crafting better prompts and using the latest LLM, yet almost no one masters the hidden lever behind every exceptional AI product: evaluations. Evals are the only way you can break down each step in the system and measure *specifically* what impact an individual change might have on a product, giving you the data and confidence to take the right next step. Prompts may make headlines, but evals quietly decide whether your product thrives or dies. In fact, I’d argue that the ability to write great evals isn’t just important—it’s rapidly becoming the defining skill for AI PMs in 2025 and beyond.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/f097be41-cdc9-42be-bf6f-7221b653b871_2913x4511.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/f097be41-cdc9-42be-bf6f-7221b653b871_2913x4511.jpeg)
 
 If you’re not actively building this muscle, you’re likely missing your biggest opportunity for impact-building AI products.
 
@@ -46,11 +46,11 @@ Evaluating AI systems is less like traditional software testing and more like gi
 
 Just as you’d never let someone drive without passing their test, you shouldn’t let an AI product launch without passing thoughtful, intentional evals.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/72e84e39-b50f-48ab-9e4f-1669abe5094e_2913x1771.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/72e84e39-b50f-48ab-9e4f-1669abe5094e_2913x1771.jpeg)
 
 Evals are analogous to unit testing in some ways, with important differences. Traditional software unit testing is like checking if a train stays on its tracks: straightforward, deterministic, clear pass/fail scenarios. Evals for LLM-based systems, on the other hand, can feel more like driving a car through a busy city. The environment is variable, and the system is non-deterministic. Unlike in traditional software testing, when you give the same prompt to an LLM multiple times, you might see slightly different responses—just like how drivers can behave differently in city traffic. With evals, you’re often dealing with more qualitative or open-ended metrics—like the relevance or coherence of the output—that might not fit neatly into a strict pass/fail testing model.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/2ca5e38a-c452-4017-a9be-002ce885a3bc_2913x2166.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/2ca5e38a-c452-4017-a9be-002ce885a3bc_2913x2166.jpeg)
 
 ## **Getting started**
 
@@ -73,7 +73,7 @@ Importantly, LLM-based evals are natural language prompts themselves. That means
 
 Let’s take the example from earlier: a trip-planning agent. In that system, there are a lot of things that can go wrong, and you can choose the right eval approach for each step in the system.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/0226b638-2757-485f-9ded-8a8114c7b1a6_2913x3146.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/0226b638-2757-485f-9ded-8a8114c7b1a6_2913x3146.jpeg)
 
 ### Standard eval criteria
 
@@ -112,7 +112,7 @@ Each great LLM eval contains four distinct parts:
 
 Here’s a concrete example. Below is an example eval for toxicity/tone for your trip planner agent.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/9cda3b44-8466-4878-b18d-197fc702688b_2913x1703.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/9cda3b44-8466-4878-b18d-197fc702688b_2913x1703.jpeg)
 
 ### The workflow for writing effective evals
 
@@ -161,7 +161,7 @@ For example: You might be trying to see if your agent ever answers in a tone tha
 
 1. In the example below: The eval disagrees with the human label in the last example. Our prompt above requires an exclamation point for an LLM agent response to be considered friendly. Maybe that requirement is too strict?
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/6c0f6186-adc4-41f8-b367-cc184a2bd9eb_2913x1830.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/6c0f6186-adc4-41f8-b367-cc184a2bd9eb_2913x1830.jpeg)
 
 #### **Phase 3: Iteration loop**
 
@@ -171,7 +171,7 @@ For example: You might be trying to see if your agent ever answers in a tone tha
 2. **Expand your dataset:** Regularly add new examples and edge cases to test whether your eval prompts can generalize effectively.
 3. **Iterate on your agent prompt:** Evals help you test your product when you make changes to the underlying AI system—in some ways, they are the final boss when A/B testing prompts for your AI system. For example, when you make a change to an agent (e.g. changing the model from GPT-4o to Claude 3.7 Sonnet), you can rerun the dataset of questions you collected *through your updated agent* and evaluate the new output (i.e. Claude 3.7) with your eval agent. The goal would be to improve on your initial agent (GPT-4o) eval scores, giving you a benchmark you can use for continual improvement.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/fa97cceb-0e2a-478e-b4c3-1f4f49c1e85d_2913x2538.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/fa97cceb-0e2a-478e-b4c3-1f4f49c1e85d_2913x2538.jpeg)
 
 #### **Phase 4: Production monitoring**
 
@@ -181,7 +181,7 @@ For example: You might be trying to see if your agent ever answers in a tone tha
 2. **Compare eval results to actual user outcomes:** Look for discrepancies between eval results and real-world performance (i.e. human-labeled ground truth). Use these insights to enhance your eval framework and improve accuracy over time.
 3. **Build actionable eval dashboards:** Evals can help communicate AI metrics to stakeholders across your team, and they can even be tied to business outcomes. They can serve as proxy leading metrics for changes you make to your system.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/8ed7a15e-79ee-492e-a17e-7c1e8092a4d7_1232x720.gif)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/8ed7a15e-79ee-492e-a17e-7c1e8092a4d7_1232x720.gif)
 
 #### **Common mistakes I’ve seen teams make when adopting evals:**
 
@@ -206,7 +206,7 @@ For a detailed example of how to build a hallucination eval, check out our guide
 
 As AI products become more complex, the ability to write good evals will become increasingly crucial. Evals are not just about catching bugs; they help ensure that your AI system consistently delivers value and delights your users! Evals are a critical step in going from prototype to production with generative AI.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/f6668c69-2f8d-433d-90f0-475630a8884a_2913x2110.jpeg)
+![Image from Beyond vibe checks: A PM’s complete guide to evals](https://substack-post-media.s3.amazonaws.com/public/images/f6668c69-2f8d-433d-90f0-475630a8884a_2913x2110.jpeg)
 
 I would love to hear from you: How are you currently evaluating your AI products? What challenges have you faced? Leave a comment👇
 
@@ -216,7 +216,7 @@ I would love to hear from you: How are you currently evaluating your AI products
 
 1. [A conversation with OpenAI’s CPO Kevin Weil, Anthropic’s CPO Mike Krieger, and Sarah Guo](https://www.youtube.com/watch?v=IxkvVZua28k&t=1s)
 2. Peter Yang + Aman: [The AI Skill That Will Define Your PM Career in 2025 | Aman Khan (Arize)](https://www.youtube.com/watch?v=u8lEDw7pOkE)
-3. [DeepLearning.ai course on evals](http://deeplearning.ai) with Andrew Ng
+3. [DeepLearning.ai course on evals](https://deeplearning.ai) with Andrew Ng
 4. Prompt optimization guide: <https://arize.com/course/prompt-optimization/>
 5. Arize eval hub (free!): <https://arize.com/llm-evaluation>
 6. Peter Yang + Scott White: [Exclusive: Inside the Best AI Model for Coding and Writing | Scott White (Anthropic)](https://www.youtube.com/watch?v=ynWgKSF0TZY)

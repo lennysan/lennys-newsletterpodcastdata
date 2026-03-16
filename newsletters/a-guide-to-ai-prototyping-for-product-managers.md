@@ -3,7 +3,7 @@ title: "A guide to AI prototyping for product managers"
 subtitle: "How to turn your idea into a working prototype in minutes"
 date: "2025-01-07"
 type: "newsletter"
-word_count: 4219
+word_count: 4449
 ---
 
 This post will transform how you build products, come up with new ideas, and operate as a PM.
@@ -14,7 +14,7 @@ Whether you’re already deep into AI tools or just getting started, you’ll le
 
 *If you’d like to learn more, [check out Colin’s free 30-minute lightning lesson](https://maven.com/p/30546f/ai-prototyping-for-product-managers-in-2025), where he shows you how to build a functional prototype in 10 minutes (including a few advanced techniques). And for much more, [check out Colin’s top-rated four-week cohort-based course](https://maven.com/tech-for-product/ai-prototyping-for-product-managers?promoCode=lennyslist), where you’ll master AI prototyping tools, learn to debug common issues, and build a fundamental understanding of how coding works. Use code “LENNYSLIST” to get $100 off.*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/5307ae42-888a-4ba5-8e9b-8cb6d3916c14_1456x1105.jpeg)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/5307ae42-888a-4ba5-8e9b-8cb6d3916c14_1456x1105.jpeg)
 
 If you haven’t been paying close attention over the past six months, you may have missed the rise of tools like [Cursor](https://www.cursor.com/), [Replit Agent](https://replit.com/), [v0](https://v0.dev/), [Bolt](https://bolt.new/), and other new cutting-edge AI tools that allow you to build working apps in minutes. For example, it took me 10 minutes to build [this 2-D tank game](https://cfjzdhoyqmiljtvb3fnjprf0stjcd8tg.vercel.app/) (with an AI opponent included), merely using this series of prompts:
 
@@ -25,7 +25,7 @@ If you haven’t been paying close attention over the past six months, you may h
 - *“Make it so holding down the space bar has a timer to shoot a 2nd time.”*
 - *“Add power ups to the map.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/f2bb8af7-b477-4009-a792-6f997633bb67_3220x1922.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/f2bb8af7-b477-4009-a792-6f997633bb67_3220x1922.gif)
 
 Pretty cool. But what’s cooler is that you can use these tools to build functional prototypes from a Figma design, convert a rough hand-drawn sketch to a working app, translate a PRD document into an interactive prototype, or even build a usable internal tool for your team, with no coding ability. In this post, I’ll cover the basics of AI prototyping, show how to get good results out of the most popular tools, and walk through an end-to-end example of building a prototype in less than 10 minutes.
 
@@ -37,7 +37,7 @@ Current AI development tools come in three types:
 2. **Cloud development environments (e.g. [Replit](https://replit.com/), [Bolt](https://bolt.new/), [v0](https://v0.dev/), [Lovable](https://lovable.dev/)):** Full-stack platforms thatcan build and run your apps in the cloud
 3. **Local developer assistants (e.g. [GitHub Copliot](https://github.com/features/copilot), [Cursor](https://www.cursor.com/), [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/ai)):** Development environments (i.e. IDEs) that help you write code with the help of AI
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/263e0c31-8ed5-40d0-b3d3-2fff6ef4f129_2912x1858.jpeg)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/263e0c31-8ed5-40d0-b3d3-2fff6ef4f129_2912x1858.jpeg)
 
 Let’s review the most popular tools in each category to see what they can do and what we can build.
 
@@ -49,13 +49,13 @@ Chatbots are capable of writing code in response to a question or prompt.
 
 A prompt like ***“Build me a calculator with React”*** results in the following:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/06c9d7ea-1cb6-41dd-8c88-5f8d9ff2ae4e_1080x641.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/06c9d7ea-1cb6-41dd-8c88-5f8d9ff2ae4e_1080x641.gif)
 
 If you want to run this code, ChatGPT requires you to copy and paste the code into your IDE and run it on your own computer.
 
 Claude goes one step beyond ChatGPT’s abilities with their [Artifact system](https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them). Artifacts allow you to run the code within Claude’s interface and deploy to a shareable link. An unfortunate limitation is that you can’t make any direct edits to the code, so you’re entirely reliant on using prompts to make code changes.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/71c5a618-e663-49d4-986e-0ea9c18620f8_1080x641.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/71c5a618-e663-49d4-986e-0ea9c18620f8_1080x641.gif)
 
 ([Perplexity](https://www.perplexity.ai/) is another tool you’ve probably heard of, which feels similar to chatbots but is more focused on search and not as useful for creating apps. It can write basic code because it’s built on top of other AI models like ChatGPT and Claude, but I wouldn’t recommend it for this use case.)
 
@@ -71,13 +71,13 @@ One of the key differentiators among the various cloud development environments 
 
 One of the most popular tools today, [v0](https://v0.dev/), is capable of writing and hosting both client and server code. By default it uses specific frameworks called [Next.js](https://nextjs.org) and [Shadcn UI](https://ui.shadcn.com/) to do so (both were created by [Vercel](https://vercel.com/), the same company that owns v0). v0 can deploy your code and run backend servers—plus, one of its strongest features is that it has great styling as a default. Here’s a basic CRM I built in v0 with the prompt “Build me a basic CRM.”
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/baa2653d-0687-4214-8a50-df1281081b31_3226x1938.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/baa2653d-0687-4214-8a50-df1281081b31_3226x1938.png)
 
 [Bolt](https://bolt.new/) is very similar to v0 in that it can also generate and deploy both client and server code. But a key difference is where the server runs. With v0, you deploy to real cloud hosting infrastructure, whereas Bolt runs the server code directly in the user’s browser. This means Bolt cannot natively support prototypes that need user identity like logins or accounts, multi-user interactions such as chat or collaborative workspaces, secure data operations like payment processing, or persistent data storage between sessions, because an isolated copy of the server is created on each user’s device. You can make up for this by integrating with external products like Supabase that offer servers and databases.
 
 Here’s a basic CRM I built with Bolt, using the prompt “Build me a basic CRM.”
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/fa08cc5e-283b-4da4-9d3a-441b93923b2b_3202x1938.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/fa08cc5e-283b-4da4-9d3a-441b93923b2b_3202x1938.png)
 
 Another popular tool is [Replit](https://replit.com). Replit allows you to build full-stack applications, including a client, server, and database. It can build web apps using both JavaScript and Python frameworks and particularly excels at building internal admin tools (e.g. file conversion, job applicant tracking) and data-driven applications (e.g. image resizing, multi-page dashboards) with simple UIs.
 
@@ -85,7 +85,7 @@ I use Replit whenever I need a fully functional back end or I want to use Python
 
 Here’s a basic CRM I built with Replit, using the prompt “Build me a basic CRM.”
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/40190b06-861d-4a75-b2eb-44fe6ee9800b_3220x1950.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/40190b06-861d-4a75-b2eb-44fe6ee9800b_3220x1950.png)
 
 Finally, we have [Lovable](https://lovable.dev). It’s the newest of the bunch. Lovable is most similar to v0 and Bolt—it excels at generating websites, and uses JavaScript frameworks like React and Next.js. Its differentiation comes from its integrations with other popular tools. Lovable can connect to a GitHub repository, automatically add authentication and databases with Supabase, and help you connect to AI providers like Anthropic and OpenAI. All of these features make it one of the best AI coding tools for building products you actually want to use in production.
 
@@ -93,7 +93,7 @@ One major drawback of Lovable is the lack of a code editor. To edit code, you ha
 
 Here’s a basic CRM I built with Lovable, using the prompt “Build me a basic CRM.”
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/5753e282-dacf-4349-9fd2-e6732810fe8f_3224x1938.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/5753e282-dacf-4349-9fd2-e6732810fe8f_3224x1938.png)
 
 To recap:
 
@@ -110,13 +110,13 @@ Regardless of your choice, cloud development environments all support building m
 
 The final type of AI development tool is local developer assistants. These products are targeted toward people who know how to write code. Tools like Cursor and GitHub Copilot can take prompts in a similar fashion to Claude but can then generate and apply changes within your own codebase and development environment (IDE). These tools do more than autocomplete—they can now write most of your code just using prompts.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/eb9ff6f4-c9d2-4653-95c5-e63bd7e9e1f7_3246x2136.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/eb9ff6f4-c9d2-4653-95c5-e63bd7e9e1f7_3246x2136.gif)
 
 For example, I built this presentation app (with live Q&A and polls!) in about 10 days using Lovable and Cursor. I started the app in Lovable to build basic features quickly, synced my code to GitHub to allow editing in other tools, and made final changes and fixed bugs with Cursor. This application uses authentication, databases, real-time updates, and more.
 
 Ten days may sound like a lot, but most of that time was spent resolving bugs and troubleshooting issues—something Cursor excels at compared with other tools, and something I get into a couple of sections down.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/d66cb770-6f7d-4565-af71-02bd6d8da3f9_864x513.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/d66cb770-6f7d-4565-af71-02bd6d8da3f9_864x513.gif)
 
 GitHub Copilot is more popular in enterprise environments, as it comes from a trusted vendor, Microsoft. It supports multi-file changes from prompts, code explanations, and more. I’ve found it works best when given very specific direction and does not perform as well as Cursor at more general instructions. For example, when I asked for a new feature without providing context, Copilot re-created components of my app that already existed, whereas Cursor modified my existing files directly.
 
@@ -135,7 +135,7 @@ Let’s turn the following design for Airbnb’s home page into a working protot
 
 Here’s our initial design:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/cf29900c-a0a2-4474-8620-e5a50a11a530_3080x1424.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/cf29900c-a0a2-4474-8620-e5a50a11a530_3080x1424.png)
 
 I chose Bolt for this task, as it’s better at building off a pre-existing design and we don’t need the backend database provided by Replit. Here’s a prompt I used (which you can copy and paste). Make sure to include a screenshot of the design!
 
@@ -143,7 +143,7 @@ I chose Bolt for this task, as it’s better at building off a pre-existing desi
 
 Here’s how this experience looks in Bolt:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/000e35d0-08fd-471b-9f22-a12adae2b37f_1080x641.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/000e35d0-08fd-471b-9f22-a12adae2b37f_1080x641.gif)
 
 Next, we’ll add our new price filter feature. Notice in the prompt below how I describe every feature in detail. One pro tip with prompting these tools is to be hyperspecific when describing changes for your subsequent prompts, as it helps the AI pinpoint what should change.
 
@@ -151,13 +151,13 @@ Next, we’ll add our new price filter feature. Notice in the prompt below how I
 
 *Selecting the input should pop up a price filter with minimum and maximum values. The background of the pop-up should be white and should cover elements beneath it.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/6862d7f0-e5c6-4865-9716-69d171d5ceaa_3202x1920.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/6862d7f0-e5c6-4865-9716-69d171d5ceaa_3202x1920.gif)
 
 This is a great starting point. Let’s extend this feature with a slider for the minimum price.
 
 *“Can you add a price slider? It should have a blue line and a black node. Sliding the node should modify the minimum price.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/714f13e1-1534-4008-bf6f-1520264cdf4f_3218x1934.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/714f13e1-1534-4008-bf6f-1520264cdf4f_3218x1934.gif)
 
 We now have a functional initial prototype of your product idea within 10 minutes! Without any coding skill. Incredible. We could even continue to improve this prototype filter (e.g. showing listings updated in real time as you adjust the price). Check out the prototype [here](https://peaceful-shortbread-751d61.netlify.app/).
 
@@ -171,7 +171,7 @@ We can quickly put together a v1 with the following prompts:
 
 *“Create a comprehensive customer relationship management (CRM) system.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/c04b9082-1628-49c1-8814-5270966c8554_3198x1842.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/c04b9082-1628-49c1-8814-5270966c8554_3198x1842.png)
 
 Again, let’s take a moment to pause here. We just created a working prototype of a CRM in less than five minutes—something that would have previously taken weeks of an engineer’s time. Unbelievable.
 
@@ -179,7 +179,7 @@ Let’s keep going and see how we add a new feature.
 
 *“Please implement a mock AI email writer. This should be accessible from the left nav.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/c61c29eb-4947-43af-a4c6-70497f745483_1080x641.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/c61c29eb-4947-43af-a4c6-70497f745483_1080x641.gif)
 
 Again, less than five minutes to be able to play with a new feature idea. Just think about how many ideas you can explore and how quickly you can bring them to market. AI prototyping tools have been available for less than six months and have already absolutely changed the speed at which teams can ship.
 
@@ -187,7 +187,7 @@ Now we can take our prototype and get customers’ direct feedback without wasti
 
 Each AI tool will have very different outcomes based on their default settings and how specific you are. Here’s the exact same example with the same prompts using v0:
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/00ec3345-3c32-42dd-8891-d60a947973d0_2962x1626.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/00ec3345-3c32-42dd-8891-d60a947973d0_2962x1626.png)
 
 ### Common use cases and prompt templates
 
@@ -246,7 +246,7 @@ Here are a few good templates you can use to get started with each of the tools 
 
 `Make it in the style of [product you like].`
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/01579465-632f-4ffc-9656-25d4d2fd0a35_1600x1229.png)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/01579465-632f-4ffc-9656-25d4d2fd0a35_1600x1229.png)
 
 **Tool:** v0
 
@@ -300,7 +300,7 @@ Example:
 
 *“Build me a calorie tracking app with only a front end. Start by detailing out the minimum requirements. Do not write any code.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/5c6d213c-43c8-42b3-9292-a8ffe447778b_1080x641.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/5c6d213c-43c8-42b3-9292-a8ffe447778b_1080x641.gif)
 
 You can also use reflection to get out of a loop. Rather than asking the AI to fix your syntax errors, ask it to come up with a list of possible reasons an error exists. Be explicit about not wanting code, only an explanation of what’s happening.
 
@@ -312,7 +312,7 @@ Example:
 
 *“Implement only the client-side view for calorie tracking. Use a basic data model that tracks entries with a description and number of associated calories. Display a table of all current entries and the sum of total calories in the top right corner.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/5a687bf0-350c-47a6-8431-bb140450f7e4_3218x1910.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/5a687bf0-350c-47a6-8431-bb140450f7e4_3218x1910.gif)
 
 ### Be specific
 
@@ -327,13 +327,13 @@ Example:
 - Add a left and right navigation arrow inline with the calorie amount to switch days backward and forward
 - The total calorie amount should show the sum of calories on the specified date.”*
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/89e8da38-877b-4808-9124-7528e659f871_3218x1910.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/89e8da38-877b-4808-9124-7528e659f871_3218x1910.gif)
 
 ### Lost context
 
 One of the most frustrating experiences of using AI prototyping tools is when they rewrite entire sections of your prototype and you lose hours of work. This often happens when your instructions are not specific enough and the AI cannot figure out the correct changes to make, so it rewrites everything. Fortunately, most tools have built a checkpoint system, where you can easily roll back to a prior version.
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/c8855e71-6dc7-40f4-a77e-37ac3f9a2627_3218x1910.gif)
+![Image from A guide to AI prototyping for product managers](https://substack-post-media.s3.amazonaws.com/public/images/c8855e71-6dc7-40f4-a77e-37ac3f9a2627_3218x1910.gif)
 
 You can also avoid losing context by focusing the AI on specific parts of the product that need to change. This can be done using a combination of the above strategies:
 
