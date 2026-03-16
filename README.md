@@ -7,7 +7,8 @@ This repo is the public starter pack with a limited number of transcripts and po
 ## What is included
 
 - Free starter pack: **10 newsletter posts** and **50 podcast transcripts** in this public repo
-- Paid archive: **356 newsletter posts** and **290 podcast transcripts**, plus full MCP access at [lennysdata.com](https://www.lennysdata.com)
+- Free subscribers can also connect to the starter MCP at [lennysdata.com](https://www.lennysdata.com)
+- Paid archive: **356 newsletter posts** and **290 podcast transcripts**, plus full MCP access and a private GitHub repo at [lennysdata.com](https://www.lennysdata.com)
 - All files are plain markdown and easy to use with Claude Code, Cursor, and other AI tools
 - `index.json` includes titles, dates when available, word counts, newsletter subtitles when available, and podcast guests/descriptions. Episodes without a reliable source date are marked as `undated: true`.
 
@@ -20,9 +21,9 @@ This repo is the public starter pack with a limited number of transcripts and po
 
 ## Quick Start
 
-1. Clone `github.com/LennysNewsletter/lennys-newsletterpodcastdata`.
+1. Clone with `git clone https://github.com/LennysNewsletter/lennys-newsletterpodcastdata.git`.
 2. If you prefer a ZIP instead of cloning, sign in at [https://www.lennysdata.com](https://www.lennysdata.com) and download it there.
-3. If you want the full archive and MCP access, sign in at [https://www.lennysdata.com](https://www.lennysdata.com).
+3. If you want starter MCP access or the full archive, sign in at [https://www.lennysdata.com](https://www.lennysdata.com).
 
 ## A few example projects built with this dataset
 
@@ -38,11 +39,12 @@ This repo is the public starter pack with a limited number of transcripts and po
 
 ## Want the full dataset?
 
-Paid annual subscribers can sign in at [https://www.lennysdata.com](https://www.lennysdata.com) to get:
+Paid subscribers can sign in at [https://www.lennysdata.com](https://www.lennysdata.com) to get:
 
 - 356 newsletter posts
 - 290 podcast transcripts
 - full MCP access
+- a private GitHub repo you can clone
 
 If you are not yet a paid subscriber, upgrade here: [https://www.lennysnewsletter.com/subscribe](https://www.lennysnewsletter.com/subscribe)
 
