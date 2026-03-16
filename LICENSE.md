@@ -8,13 +8,15 @@ Copyright (c) 2019–2026 Lenny Rachitsky. All rights reserved.
 
 ## Starter dataset in this public repo
 
-You may use the starter dataset in this public repo however you want.
+You may use the starter dataset in this public repo for personal, non-commercial work.
 
-That includes copying it, remixing it, sharing it, publishing projects built with it, and using it in personal or commercial work.
+That includes studying it, remixing it locally, publishing projects built with it, and using it in personal work.
+
+You may not redistribute the raw starter dataset files or use the raw contents for commercial work.
 
 The only thing you may not do is claim ownership of Lenny Rachitsky's original content.
 
-These starter-dataset terms are intentionally more permissive than the paid full-archive terms below. Commercial use is allowed for this public starter dataset only.
+These starter-dataset terms are intentionally narrower than the paid full-archive terms below when it comes to raw-content redistribution and commercial use.
 
 ## Full paid archive
 

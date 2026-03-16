@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-16T17:27:19.453763+00:00",
+  "generated_at": "2026-03-16T17:48:02.422977+00:00",
   "podcasts": [
     {
       "title": "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
@@ -405,11 +405,11 @@
   ],
   "newsletters": [
     {
-      "title": "How to build AI product sense",
-      "filename": "newsletters/how-to-build-ai-product-sense.md",
-      "word_count": 6851,
-      "date": "2026-02-03",
-      "subtitle": "The secret is using Cursor for non-technical work (inside: 75 free days of Cursor Pro to try this out!)"
+      "title": "How to build your PM second brain with ChatGPT",
+      "filename": "newsletters/how-to-build-your-pm-second-brain-with-chatgpt.md",
+      "word_count": 3149,
+      "date": "2025-12-16",
+      "subtitle": "Use AI to amplify your craft, not replace it"
     },
     {
       "title": "Everyone should be using Claude Code more",

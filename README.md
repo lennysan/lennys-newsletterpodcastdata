@@ -1,4 +1,4 @@
-# Lenny's Data (Free starter pack)
+# Lenny's Data (Free public starter pack)
 
 A comprehensive archive of [Lenny's Podcast](https://www.lennyspodcast.com) transcripts and [Lenny's Newsletter](https://www.lennysnewsletter.com) posts, in AI-friendly markdown, to inspire you to build something with this unique dataset.
 
@@ -8,7 +8,7 @@ This repo is the public starter pack with a limited number of transcripts and po
 
 - Free starter pack: **10 newsletter posts** and **50 podcast transcripts** in this public repo
 - Free subscribers can also connect to the starter MCP at [lennysdata.com](https://www.lennysdata.com)
-- Paid archive: **356 newsletter posts** and **290 podcast transcripts**, plus full MCP access and a private GitHub repo at [lennysdata.com](https://www.lennysdata.com)
+- Paid archive: **349 newsletter posts** and **290 podcast transcripts**, plus full MCP access and a private GitHub repo at [lennysdata.com](https://www.lennysdata.com)
 - All files are plain markdown and easy to use with Claude Code, Cursor, and other AI tools
 - `index.json` includes titles, dates when available, word counts, newsletter subtitles when available, and podcast guests/descriptions. Episodes without a reliable source date are marked as `undated: true`.
 
@@ -30,7 +30,7 @@ This repo is the public starter pack with a limited number of transcripts and po
 - [Lenny Playbook](https://lilys.ai/collections/141200?s=1) by LilysAI: turns podcast transcripts into structured notes, visual summaries, and a chat interface.
 - [Learn from Lenny](https://x.com/learnfromlenny) by [@IamAdiG](https://x.com/IamAdiG): an AI agent on X that answers with product advice grounded in the podcast archive.
 - [Lenny Skills Database](https://refoundai.com/lenny-skills/) by Refound AI: a searchable database of practical skills extracted from the podcast archive.
-- [Lenny's Frameworks](https://lennys-frameworks.vercel.app/): a collection of frameworks and mental models distilled from Lenny's Podcast.
+- [Lenny's Frameworks](https://lennys-frameworks.vercel.app/) by [Rison Simon](https://x.com/RisonSimon): a collection of frameworks and mental models distilled from Lenny's Podcast.
 - [Lenny Listens](https://lenny-listens.vercel.app/): uses Lenny's interviewing style to generate AI-led customer interviews.
 - [Lenny's Advice Arena](https://lennysadvicearena.lovable.app/): an interactive way to explore product advice from the archive.
 - [Lenny Gallery](https://lennygallery.manus.space/) by Alan Chan: visual infographic summaries of standout episodes.
@@ -41,8 +41,9 @@ This repo is the public starter pack with a limited number of transcripts and po
 
 Paid subscribers can sign in at [https://www.lennysdata.com](https://www.lennysdata.com) to get:
 
-- 356 newsletter posts
+- 349 newsletter posts
 - 290 podcast transcripts
+- newsletter posts published within the last 3 months are intentionally excluded from the archive
 - full MCP access
 - a private GitHub repo you can clone
 
