@@ -6,7 +6,7 @@ guest: "Molly Graham"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=twzLDx9iers"
 video_id: "twzLDx9iers"
-description: "Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community for leaders navigating rapid scale, growth, and change. She’s best known for her “Give away your Legos” framework and her collection of practical mental models for leading through hypergrowth."
+description: "Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community for leaders navigating rapid scale, growth, and change."
 word_count: 17885
 ---
 

@@ -6,7 +6,7 @@ guest: "Sam Lessin"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=KtKJ3A6DWTs"
 video_id: "KtKJ3A6DWTs"
-description: "Sam Lessin is a partner at Slow Ventures, a former VP of Product at Facebook, and a two-time founder who’s now teaching etiquette to Silicon Valley’s founders. In this unconventional episode, Sam explains why proper etiquette has become a vital skill for founders in 2026—especially as technology becomes more central to society and trust becomes harder to build. His etiquette book and courses have become surprisingly popular, teaching founders how to “show up in a room with a low heart rate” and"
+description: "Silicon Valley’s missing etiquette playbook, covering startup building, product design, and operator lessons."
 word_count: 19233
 ---
 

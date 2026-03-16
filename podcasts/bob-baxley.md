@@ -6,7 +6,7 @@ guest: "Bob Baxley"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=X-83gvgVaWc"
 video_id: "X-83gvgVaWc"
-description: "Bob Baxley is a design leader who has shaped products used by billions at Apple, Pinterest, Yahoo, and ThoughtSpot. During his eight years at Apple, he led design for the online store and the App Store, and witnessed the iPhone’s transformative launch while working under Steve Jobs. A student of history turned software craftsman, Bob discovered his calling after exploring photography, filmmaking, and music, ultimately recognizing software as the most powerful creative medium of our time. Bob cha"
+description: "35 years of product design wisdom from Apple, Disney, Pinterest, and beyond, covering product design, team leadership, and startup building."
 word_count: 21888
 ---
 

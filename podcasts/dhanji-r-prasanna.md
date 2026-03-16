@@ -6,7 +6,7 @@ guest: "Dhanji R. Prasanna"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=JMeXWVw0r3E"
 video_id: "JMeXWVw0r3E"
-description: "Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies in the world. Before becoming CTO, Dhanji wrote an “AI manifesto” to CEO Jack Dorsey that sparked a company-wide transformation (and his promotion to CTO)."
+description: "Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies in the world."
 word_count: 14839
 ---
 

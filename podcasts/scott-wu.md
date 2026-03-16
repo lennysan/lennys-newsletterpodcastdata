@@ -6,7 +6,7 @@ guest: "Scott Wu"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=7m_xKFqSxTo"
 video_id: "7m_xKFqSxTo"
-description: "Scott Wu is the co-founder and CEO of Cognition Labs, the creators of Devin, an AI agent designed to function as a junior engineer on software development teams. In this conversation, Scott demonstrates how his team uses their own product to accelerate development workflows, reduce engineering toil, and handle routine tasks asynchronously. Scott walks us through real examples of how Devin integrates into Cognition’s daily operations—from researching and implementing new features to responding to"
+description: "How Devin replaces your junior engineers with infinite AI interns that never sleep, covering AI product work, product design, and engineering tradeoffs."
 word_count: 19567
 ---
 

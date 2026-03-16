@@ -6,7 +6,7 @@ guest: "Nicole Forsgren"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=SWcDfPVTizQ"
 video_id: "SWcDfPVTizQ"
-description: "Nicole Forsgren created the most widely used frameworks for measuring developer productivity—DORA and SPACE. She wrote the foundational book Accelerate and is about to release her newest book, Frictionless , a practical guide for helping teams move faster in the AI era. She’s currently Senior Director of Developer Intelligence at Google."
+description: "Nicole Forsgren created the most widely used frameworks for measuring developer productivity—DORA and SPACE. She wrote the foundational book Accelerate and is about to release her newest book, Frictionless , a practical guide for helping teams move faster in the AI era."
 word_count: 14088
 ---
 

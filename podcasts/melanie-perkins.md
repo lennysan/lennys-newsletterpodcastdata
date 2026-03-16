@@ -6,7 +6,7 @@ guest: "Melanie Perkins"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=-LywX3T5Scc"
 video_id: "-LywX3T5Scc"
-description: "Melanie Perkins is CEO and co-founder of Canva, currently valued at over $42 billion, generating over $3 billion in annual revenue, with more than 240 million monthly active users and, incredibly, eight consecutive years of profitability. But the journey was far from smooth. Melanie was rejected by over 100 investors during her first fundraising round, her team spent two years without being able to ship a new feature during a technical rewrite, and the company pivoted early from a yearbook publi"
+description: "The woman behind Canva shares how she built a $42B company from nothing, covering product design, strategic decision-making, and startup building."
 word_count: 13679
 ---
 

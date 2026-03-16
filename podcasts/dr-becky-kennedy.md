@@ -6,7 +6,7 @@ guest: "Dr. Becky Kennedy"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=Auxs8ZsHRI4"
 video_id: "Auxs8ZsHRI4"
-description: "Dr. Becky Kennedy is a clinical psychologist, the bestselling author of Good Inside , and the founder of a parenting platform used by millions. Known for her practical, psychology-based approach to parenting, Dr. Becky shares how the same principles that help parents raise resilient children can make you a much more effective leader. In this conversation, she breaks down why all human systems—whether families or companies—operate on the same fundamental principles, and how understanding these dy"
+description: "Working with difficult adults, covering product design, team leadership, and practical product lessons."
 word_count: 19452
 ---
 

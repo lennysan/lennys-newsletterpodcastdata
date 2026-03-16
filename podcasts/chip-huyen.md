@@ -6,7 +6,7 @@ guest: "Chip Huyen"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=qbvY0dQgSJ4"
 video_id: "qbvY0dQgSJ4"
-description: "Chip Huyen is a core developer on Nvidia’s Nemo platform, a former AI researcher at Netflix, and taught machine learning at Stanford. She’s a two-time founder and the author of two widely read books on AI, including AI Engineering , which has been the most-read book on the O’Reilly platform since its launch. Unlike many AI commentators, Chip has built multiple successful AI products and platforms and works directly with enterprises on their AI strategies, giving her unique visibility into what’s"
+description: "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix), covering AI product work, product design, and engineering tradeoffs."
 word_count: 15296
 ---
 

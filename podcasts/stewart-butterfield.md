@@ -6,7 +6,7 @@ guest: "Stewart Butterfield"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=kLe-zy5r0Mk"
 video_id: "kLe-zy5r0Mk"
-description: "Stewart Butterfield is the co-founder of Slack and Flickr, two of the most influential products in internet history. After selling Slack to Salesforce in one of tech’s biggest acquisitions, he’s been focused on family, philanthropy, and creative projects. In this rare podcast appearance, Stewart shares the product frameworks and leadership principles that most contributed to his success. From “utility curves” to “the owner’s delusion” to “hyper-realistic work-like activities,” his thoughts on cr"
+description: "Mental models for building products people love ft. Stewart Butterfield, covering product design, B2B products, and consumer products."
 word_count: 16198
 ---
 

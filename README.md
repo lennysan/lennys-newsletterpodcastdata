@@ -1,4 +1,4 @@
-# Lenny's Data
+# Lenny's Data (Free starter pack)
 
 A comprehensive archive of [Lenny's Podcast](https://www.lennyspodcast.com) transcripts and [Lenny's Newsletter](https://www.lennysnewsletter.com) posts, in AI-friendly markdown, to inspire you to build something with this unique dataset.
 

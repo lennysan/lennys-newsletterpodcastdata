@@ -6,7 +6,7 @@ guest: "Zevi Arnovitz"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=1em64iUFt3U"
 video_id: "1em64iUFt3U"
-description: "The complete AI workflow that lets non-technical people build real products in Cursor"
+description: "The complete AI workflow that lets non-technical people build real products in Cursor."
 word_count: 14839
 ---
 

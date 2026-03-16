@@ -6,7 +6,7 @@ guest: "Jason Droege"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=W99jdYZOlN0"
 video_id: "W99jdYZOlN0"
-description: "Jason Droege is the CEO of Scale AI, a company that provides foundational training data to every major AI lab. He previously co-founded Scour with Travis Kalanick and built Uber Eats from idea to $20 billion in revenue. In this conversation, Jason shares lessons from getting sued for $250 billion, discovering restaurant economics by weighing sandwich ingredients, and over 25 years of launching transformative technology businesses."
+description: "Jason Droege is the CEO of Scale AI, a company that provides foundational training data to every major AI lab. He previously co-founded Scour with Travis Kalanick and built Uber Eats from idea to $20 billion in revenue."
 word_count: 16353
 ---
 

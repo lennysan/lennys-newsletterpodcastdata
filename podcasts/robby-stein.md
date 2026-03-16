@@ -6,7 +6,7 @@ guest: "Robby Stein"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=kOnsqqVbIeY"
 video_id: "kOnsqqVbIeY"
-description: "Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new AI Overviews, AI Mode, search ranking, Google Lens, and more. Previously, he led consumer products at Instagram, where he and his teams built Stories, Reels, Close Friends, and other key features now used by billions."
+description: "Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new AI Overviews, AI Mode, search ranking, Google Lens, and more."
 word_count: 17522
 ---
 
